@@ -1,0 +1,14 @@
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.csprojAssemblyReference.cache
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.csproj.CoreCompileInputs.cache
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.RazorAssemblyInfo.cache
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.RazorAssemblyInfo.cs
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.AssemblyInfoInputs.cache
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.AssemblyInfo.cs
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/bin/Debug/netcoreapp2.2/MyWebApi2.deps.json
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/bin/Debug/netcoreapp2.2/MyWebApi2.runtimeconfig.json
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/bin/Debug/netcoreapp2.2/MyWebApi2.runtimeconfig.dev.json
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/bin/Debug/netcoreapp2.2/MyWebApi2.dll
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/bin/Debug/netcoreapp2.2/MyWebApi2.pdb
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.RazorTargetAssemblyInfo.cache
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.dll
+/Users/tunc/Documents/C#/WebApiProjects/MyWebApi2/MyWebApi2/obj/Debug/netcoreapp2.2/MyWebApi2.pdb
